@@ -1,5 +1,4 @@
-![logo] (https://github.com/HugoRoseDev/HugoRoseDev/blob/main/grabanner.jpg)
-
+![logo](https://github.com/HugoRoseDev/HugoRoseDev/blob/main/grabanner.jpg)
 <h1 align="center">Hi 👋, I'm Hugo Rose</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
